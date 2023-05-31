@@ -1,6 +1,7 @@
-# Barbu Angelo-Gabriel (angelo.barbu123@gmail.com)
+# Stepper Motor Driver
 
-STEPPER MOTOR DRIVER
+### Barbu Angelo-Gabriel
+### angelo.barbu123@gmail.com
 
 The driver was written using C++ and Arduino IDE.
 
